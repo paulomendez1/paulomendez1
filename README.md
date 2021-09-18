@@ -1,6 +1,6 @@
  👋 Hi, I’m Paulo Mendez
  -
- 👨🏼‍💻 Programmer Analyst && .NET Developer at Accenture
+ 👨🏼‍💻 Programmer Analyst && Full Stack .NET/Angular Developer at Movizen
  
 - 🌳 I have knowledge in C# (ASP.NET, WinForms), JavaScript & Bootstrap
 - 🌱 I’m currently learning Angular, mastering C#, and learning about RESTful APIs
