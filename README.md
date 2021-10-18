@@ -2,8 +2,8 @@
  -
  👨🏼‍💻 Programmer Analyst && Full Stack .NET/Angular Developer at Movizen
  
-- 🌳 I have knowledge in C# (ASP.NET, WinForms), JavaScript & Bootstrap
-- 🌱 I’m currently learning Angular, mastering C#, and learning about RESTful APIs
+- 🌳 I have knowledge in .NET Core, Angular, SQL Server, JavaScript. 
+- 🌱 I’m currently learning Python, mastering C#, and introducing myself into Data Science.
 - 📫 How to reach me: https://www.linkedin.com/in/paulo-mendez/ !
 
 <!---
