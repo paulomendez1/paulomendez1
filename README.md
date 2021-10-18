@@ -5,6 +5,7 @@
 - 🌳 I have knowledge in .NET Core, Angular, SQL Server, JavaScript. 
 - 🌱 I’m currently learning Python, mastering C#, and introducing myself into Data Science.
 - 📫 How to reach me: https://www.linkedin.com/in/paulo-mendez/ !
+- :computer:My personal website: https://paulomendez1.github.io/paulomendez/
 
 <!---
 paulomendez1/paulomendez1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
