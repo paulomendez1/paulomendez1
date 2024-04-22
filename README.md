@@ -1,6 +1,6 @@
  👋 Hi, I’m Paulo Mendez
  -
- 👨🏼‍💻 Programmer Analyst && Full Stack Developer at Endava
+ 👨🏼‍💻 Full Stack Developer
  
 - 📫 How to reach me: https://www.linkedin.com/in/paulo-mendez/ !
 - :computer:My personal website: https://paulomendez1.github.io/paulomendez/
